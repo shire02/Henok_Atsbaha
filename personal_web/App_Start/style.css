@@ -1,0 +1,94 @@
+
+    body
+    {
+        background-color:darkgray;
+    }
+   
+
+    .jumbotron {
+        width: 1350px;
+        height: 200px;
+        margin-top: -40px;
+        margin-left: -120px;
+    }
+
+    .about {
+        width: 700px;
+        height: 300px;
+        background-color: red;
+        margin: 25px 5px 30px 0px;
+    }
+
+    .work {
+        width: 700px;
+        height: 300px;
+        background-color: yellow;
+        margin: 25px 5px 30px 0px;
+    }
+
+    .project {
+        width: 700px;
+        height: 300px;
+        background-color: yellow;
+        margin: 25px 5px 30px 0px;
+    }
+
+    .git {
+        width: 700px;
+        height: 300px;
+        background-color: yellow;
+        margin: 25px 5px 30px 0px;
+    }
+
+        @*bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb*@
+
+
+    .add {
+        width: 360px;
+        height: 150px;
+        background-color: rosybrown;
+        margin: -1320px 20px 20px 865px;
+    }
+
+    .skill {
+        width: 390px;
+        height: 400px;
+        background-color: rosybrown;
+        margin: 25px 20px 20px 865px;
+    }
+
+    .eduction {
+        width: 390px;
+        height: 200px;
+        background-color: rosybrown;
+        margin: 25px 20px 20px 865px;
+    }
+
+    .confernce {
+        width: 390px;
+        height: 200px;
+        background-color: rosybrown;
+        margin: 25px 20px 20px 865px;
+    }
+
+    .certification {
+        width: 390px;
+        height: 200px;
+        background-color: rosybrown;
+        margin: 25px 20px 20px 865px;
+    }
+
+    .language {
+        width: 390px;
+        height: 200px;
+        background-color: rosybrown;
+        margin: 25px 20px 20px 865px;
+    }
+
+    .youtube {
+        width: 390px;
+        height: 200px;
+        background-color: rosybrown;
+        margin: 25px 20px 20px 865px;
+    }
+

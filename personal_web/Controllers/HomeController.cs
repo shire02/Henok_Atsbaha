@@ -30,8 +30,7 @@ namespace personal_web.Controllers
         {
             return View();
         }
+
        
-        
-    
-        }
+    }
     }
